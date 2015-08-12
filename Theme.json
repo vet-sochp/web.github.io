@@ -2,7 +2,7 @@
     "room": "Community Name",
     "author": "Author",
     "icon": null,
-    "css": null,
+    "css": "https://rawgit.com/Tessi1998/Tessin-Emo-Koutek/master/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
