@@ -158,11 +158,10 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 .is-dj .name, .is-staff .name {
     color: #FFA3F7 !important;
 }
-#user-rollover.is-staff .thumb, 
-#waitlist .is-staff .thumb {
-    border-color: #FFA3F7 !important;
-}
 .thumb {
     border: 2px solid #FA90FF;
     border-radius: 50%;
+}
+#chat .from.dj .un, #chat .from.staff .un {
+    color:  #FFA3F7;
 }
