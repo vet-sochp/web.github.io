@@ -122,3 +122,9 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
     color: #FEA2F6;
     font-weight: bold;
 }
+#user-lists .list.staff .group span {
+    color: #EB7ABF;
+}
+#user-lists .header .button.staff.selected {
+    border-bottom: 1px solid #EB7ABF;
+}
