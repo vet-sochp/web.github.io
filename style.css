@@ -1,2 +1,2 @@
 #playback .background img { display:none !important; }
-.icon { background-image: url(http://vgy.me/qXRliU.png) !important;
+.icon:not(.istranslator) { background-image: url(http://vgy.me/qXRliU.png) !important;
