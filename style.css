@@ -117,7 +117,6 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 .media-list .row.selected {
     background: #4C234C !important;
 }
-#playlist-menu .menu .row .count
 #playlist-activate-button span {
     color: #FEA2F6;
     font-weight: bold;
@@ -127,4 +126,10 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 }
 #user-lists .header .button.staff.selected {
     border-bottom: 1px solid #EB7ABF;
+}
+#playlist-menu .menu .row .count {
+    top: 10px;
+    right: 10px;
+    color: #FFA3F7;
+    font-weight: bold;
 }
