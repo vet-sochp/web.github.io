@@ -1,8 +1,8 @@
 {
-    "room": "Emo Koutek",
+    "room": "Tessin Emo Koutek",
     "author": "Dave & Tessi",
     "icon": "http://vgy.me/qXRliU.png",
-    "css": "https://rawgit.com/Tessi1998/Tessin-Emo-Koutek/master/style.css",
+    "css": "https://rawgit.com/Tessi1998/Tessin-Emo-Koutek/master/style.css"
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
