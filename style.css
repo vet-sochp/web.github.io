@@ -51,7 +51,7 @@
     top: 2px;
 }
 #rcs-progress-container .bar {
-    background-color: #ffa3f7;
+    background-color: #ffa3f7 !important;
 }
 .is-ambassador .name {
     color: #de00e6;
