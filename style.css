@@ -198,3 +198,7 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
     background: rgb(121, 52, 115);
     cursor: default;
 }
+#chat .from .un {
+    color: #9E5F9E !important;
+    font-weight: 700;
+}
