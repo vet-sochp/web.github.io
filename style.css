@@ -104,3 +104,21 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
     margin-top: 1px;
     margin-left: -1px;
 }
+.media-list .row.now-playing {
+    height: 53px;
+    border-bottom: #F500FF 2px solid!important;
+    background: #FA67FF!important;
+}
+.media-list .row.now-playing .actions {
+    background: #FA67FF!important;
+}
+.media-list .selected .actions,
+#playlist-menu .menu .row.selected,
+.media-list .row.selected {
+    background: #4C234C !important;
+}
+#playlist-menu .menu .row .count
+#playlist-activate-button span {
+    color: #FEA2F6;
+    font-weight: bold;
+}
