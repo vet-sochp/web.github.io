@@ -4,25 +4,58 @@
 }
 
 .icon { 
-  background-image: url('http://i.imgur.com/rulzF9X.png'); 
+    background-image: url('http://i.imgur.com/rulzF9X.png'); 
 }
 #your-active-playlist > .icon-check-purple{ 
-  background: url('http://i.imgur.com/8BOvR4D.png') !important; 
-  top: 15px; 
+    background: url('http://i.imgur.com/8BOvR4D.png') !important; 
+    top: 15px; 
 }
 #user-menu .item > .icon-history-white { 
-  background: url('https://i.imgur.com/EdPgEwe.png') !important; 
-  top: 12px; 
+    background: url('https://i.imgur.com/EdPgEwe.png') !important; 
+    top: 12px; 
 }
 #footer-user .item > .icon-history-white { 
-  background: url('https://i.imgur.com/EdPgEwe.png') !important; 
-  top: 12px; 
+    background: url('https://i.imgur.com/EdPgEwe.png') !important; 
+    top: 12px; 
 }
 #room-bar .icon-room { 
-  background-image: url('http://i.imgur.com/tXAsNSX.png') !important;  
-  top: 11px;
-  left: 7px;
+    background-image: url('http://i.imgur.com/tXAsNSX.png') !important;  
+    top: 11px;
+    left: 7px;
 }
 #dashboard .icon-grab {  
-  background: url('http://i.imgur.com/DGOLuAK.png') !important;  
+    background: url('http://i.imgur.com/DGOLuAK.png') !important;  
+}
+#footer-user .info .bar .progress {
+    background-color: #ffa3f7;
+    border-radius: 1px 1pc;
+}
+#footer-user .info .meta div.bar {
+    background: #555d70;
+    border-radius: 1px 1pc;
+}
+#footer-user .info .pp {
+    position: absolute;
+    top: 22px;
+    left: 4px;
+}
+.experience .xp .bar {
+    border-radius: 1px 2pc;
+}
+.experience .xp .bar .progress {
+    background: #ffa3f7;
+    border-radius: 1px 2pc;
+}
+.user-content.profile .meta.is-staff .role span {
+    color: #EB7ABF;
+    top: 2px;
+}
+#rcs-progress-container .bar {
+    background-color: #ffa3f7;
+}
+.is-ambassador .name {
+    color: #de00e6;
+}
+.is-admin .name {
+    color: #a8009a;
 }
