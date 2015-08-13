@@ -1,7 +1,28 @@
-#playback .background img { display:none !important; }
-.icon:not(.istranslator), 
-.icon:not(.icon-radiant-clearchat),
-.icon:not(.icon-chat-system),
-.icon:not(.icon-star-white) { background-image: url(https://source.nbot.eu/rcs/tessin-emo-koutek/img/icons.png);
+#playback .background img { display:none !important; 
+}
+#user-rollover .info .role span { color: #EB7ABF !important 
+}
 
-#user-rollover .info .role span { color: #EB7ABF !important }
+.icon { 
+  background-image: url('http://i.imgur.com/TQTo13f.png'); 
+}
+#your-active-playlist > .icon-check-purple{ 
+  background: url('http://i.imgur.com/8BOvR4D.png') !important; 
+  top: 15px; 
+}
+#user-menu .item > .icon-history-white { 
+  background: url('https://i.imgur.com/EdPgEwe.png') !important; 
+  top: 12px; 
+}
+#footer-user .item > .icon-history-white { 
+  background: url('https://i.imgur.com/EdPgEwe.png') !important; 
+  top: 12px; 
+}
+#room-bar .icon-room { 
+  background-image: url('http://i.imgur.com/tXAsNSX.png');  
+  top: 11px;
+  left: 7px;
+}
+#dashboard .icon-grab {  
+  background: url('http://i.imgur.com/DGOLuAK.png');  
+}
