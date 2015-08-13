@@ -172,3 +172,6 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #chat .text a:visited:hover {
     color: #FF00F4;
 }
+#chat .text a, #chat .text a:visited {
+    color: #FFB7E9;
+}
