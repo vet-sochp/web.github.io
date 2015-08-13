@@ -153,7 +153,7 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
     background: linear-gradient(135deg,#9E5F9E 0,#111317 13%,#111317 100%) !important;
 }
 #chat .mention.is-dj, #chat .mention.is-staff {
-    background: linear-gradient(135deg,#ac76ff 0,#111317 13%,#111317 100%) !important;
+    background: linear-gradient(135deg,#FFA3F7 0,#111317 13%,#111317 100%) !important;
 }
 .is-dj .name, .is-staff .name {
     color: #FFA3F7 !important;
