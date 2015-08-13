@@ -165,13 +165,18 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 .user-content .grid .cell:hover>.top {
     background: linear-gradient(to bottom,#C64FDC 0,#4C324D 56%,#1a1a1a 73%,#73716d 100%);
 }
+#room-settings .general-settings a:hover, 
+#room-settings .general-settings a:visited:hover,
 .user-content.profile .meta .link .url a, 
 .user-content.profile .meta .link .url a:visited,
 #chat .text a:hover, 
 #chat .text a:visited:hover {
     color: #FF00F4;
 }
-#chat .text a, #chat .text a:visited {
+#room-settings .general-settings a, 
+#room-settings .general-settings a:visited,
+#chat .text a, 
+#chat .text a:visited {
     color: #FFB7E9;
 }
 .tab-menu button.selected,
