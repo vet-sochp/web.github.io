@@ -198,3 +198,8 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
     background: rgb(121, 52, 115);
     cursor: default;
 }
+#room-settings .general-settings {
+    background: url('http://i.imgur.com/KDlPiZP.png');
+    background-repeat: no-repeat;
+    background-position: 400px 65px;
+}
