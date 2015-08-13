@@ -162,3 +162,13 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
     top: 4px!important;
     color: #FFA3F7 !important;
 }
+#user-menu .avatar {
+    background-image: url('http://www.officialpsds.com/images/stocks/Dark-room-stock2998-large.png') !important;
+}
+.user-content .grid .cell:hover>.top {
+    background: linear-gradient(to bottom,#C64FDC 0,#4C324D 56%,#1a1a1a 73%,#73716d 100%);
+}
+#chat .text a:hover, 
+#chat .text a:visited:hover {
+    color: #FF00F4;
+}
