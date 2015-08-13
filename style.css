@@ -188,7 +188,6 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
     overflow-x: hidden;
     height: 235px;
     overflow-y: hidden;
-    display: none !important;
 }
 #room-settings-menu .item.selected {
     background: rgb(121, 52, 115);
