@@ -188,3 +188,9 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
     left: 0;
     background: url('http://i.imgur.com/8CGMwKZ.png') !important;
 }
+#room-settings .general-settings a, 
+#room-settings .general-settings a:visited {
+    display: none;
+    cursor: default;
+}
+
