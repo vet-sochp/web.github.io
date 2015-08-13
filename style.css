@@ -65,15 +65,14 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #chat-input {
     border-radius: 30px;
 }
-Pseudo ::-webkit-scrollbar element
 ::-webkit-scrollbar {
     width: 13px !important;
     background: rgba(0, 0, 0, 0.72) !important;
 }
 ::-webkit-scrollbar-thumb {
     border-radius: 10px !important;
-    -webkit-box-shadow: inset 0 0 10px rgb(236, 0, 255) !important;
-    -moz-box-shadow: inset 0 0 10px rgba(0, 110, 255, 1) !important;
+    -webkit-box-shadow: inset 0 0 10px rgb(255, 79, 222) !important;
+    -moz-box-shadow: inset 0 0 10px rgb(255, 79, 222) !important;
     box-shadow: inset 0 0 10px rgb(255, 79, 222) !important;
 }
 ::-webkit-scrollbar-track {
