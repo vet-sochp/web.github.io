@@ -1,3 +1,6 @@
 #playback .background img { display:none !important; }
-.icon:not(.istranslator), .icon:not(.icon-radiant-clearchat) { background-image: url(http://vgy.me/qXRliU.png) !important;
+.icon:not(.istranslator), 
+.icon:not(.icon-radiant-clearchat),
+.icon:not(.icon-chat-system),
+.inon:not(.icon-star-white) { background-image: url(http://vgy.me/qXRliU.png) !important;
 #rcs-appright-button .icon { background: url(https://cdn.radiant.dj/rcs/icons/rcs.png) !important }
