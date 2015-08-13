@@ -129,15 +129,8 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
     color: #FFA3F7;
     font-weight: bold;
 }
-#playlist-activate-button span {
-    color: #FFA3F7 !omportant;
-    font-weight: bold;
-}
 #playlist-activate-button {
-    right: 162px;
-    padding: 0 16px 0 8px;
     background: #4C234C;
-    text-align: center;
     border-radius: 30px 0 0 30px;
 }
 #chat .user-action,
@@ -163,5 +156,9 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
     border-radius: 50%;
 }
 #chat .from.dj .un, #chat .from.staff .un {
-    color:  #FFA3F7;
+    color:  #FFA3F7 !important;
+}
+#playlist-activate-button span {
+    top: 4px!important;
+    color: #FFA3F7 !important;
 }
