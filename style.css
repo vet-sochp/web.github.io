@@ -4,7 +4,7 @@
 }
 
 .icon { 
-  background-image: url('http://i.imgur.com/TQTo13f.png'); 
+  background-image: url('http://i.imgur.com/rulzF9X.png'); 
 }
 #your-active-playlist > .icon-check-purple{ 
   background: url('http://i.imgur.com/8BOvR4D.png') !important; 
@@ -19,10 +19,10 @@
   top: 12px; 
 }
 #room-bar .icon-room { 
-  background-image: url('http://i.imgur.com/tXAsNSX.png');  
+  background-image: url('http://i.imgur.com/tXAsNSX.png') !important;  
   top: 11px;
   left: 7px;
 }
 #dashboard .icon-grab {  
-  background: url('http://i.imgur.com/DGOLuAK.png');  
+  background: url('http://i.imgur.com/DGOLuAK.png') !important;  
 }
