@@ -29,8 +29,9 @@
     background: url('http://i.imgur.com/8CGMwKZ.png') !important;  
 }
 #footer-user .info .bar .progress {
-    background-color: #ffa3f7;
-    border-radius: 1px 1pc;
+    background: #ffa3f7;
+    border-radius: 1px 2pc;
+    box-shadow: #FFA3F7 0 0 20px;
 }
 #footer-user .info .meta div.bar {
     background: #555d70;
@@ -47,6 +48,7 @@
 .experience .xp .bar .progress {
     background: #ffa3f7;
     border-radius: 1px 2pc;
+    box-shadow: #FFA3F7 0 0 20px;
 }
 .user-content.profile .meta.is-staff .role span {
     color: #EB7ABF;
