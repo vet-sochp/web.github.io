@@ -1,6 +1,8 @@
-#playback .background img { display:none !important; 
+#playback .background img { 
+    display:none !important; 
 }
-#user-rollover .info .role span { color: #EB7ABF !important 
+#user-rollover .info .role span { 
+    color: #EB7ABF !important 
 }
 
 .icon { 
