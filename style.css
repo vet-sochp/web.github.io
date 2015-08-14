@@ -139,9 +139,6 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #chat .moderation, #chat .moderation .from {
     color: #FFA3F7 !important;
 }
-#chat .mention.is-you {
-    background: linear-gradient(135deg,#9E5F9E 0,#111317 13%,#111317 100%) !important;
-}
 #chat .mention.is-dj, #chat .mention.is-staff {
     background: linear-gradient(135deg,#FFA3F7 0,#111317 13%,#111317 100%) !important;
 }
@@ -208,4 +205,19 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
     background: url('http://i.imgur.com/N780j09.png');
     background-repeat: no-repeat;
     background-position: 210px;
+}
+#room-settings .general-settings .option button.off {
+    margin-left: 10px;
+    background: #FC6CB3;
+    color: #eee;
+}
+#room-settings .general-settings .option.enabled>button.on {
+    background: #FE12AD;
+    color: #eee;
+}
+#waitlist .list.manager .user .meta {
+    border-bottom: none;
+}
+#chat .user-action {
+    color: #AF3E9B;
 }
