@@ -184,10 +184,8 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
     background: rgb(121, 52, 115);
     cursor: default;
 }
-#room-bar .favorite i {
-    top: 0;
-    left: 0;
-    background: url('http://i.imgur.com/8CGMwKZ.png') !important;
+.favorite.selected i {
+    background: url('http://i.imgur.com/8CGMwKZ.png');
 }
 #room-settings .general-settings .description .value {
     overflow-x: hidden;
