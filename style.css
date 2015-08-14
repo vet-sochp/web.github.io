@@ -221,3 +221,10 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #chat .user-action {
     color: #AF3E9B;
 }
+#user-lists .list.bans .user .label, #user-lists .list.mutes .user .label {
+    position: relative;
+    top: 24px;
+    margin-left: 17px;
+    color: #EB7ABF;
+    font-size: 12px;
+}
