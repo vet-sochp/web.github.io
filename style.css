@@ -198,9 +198,9 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
     cursor: default;
 }
 #room-settings .general-settings {
-    background: url('http://i.imgur.com/Irae9Rg.png');
+    background: url('http://i.imgur.com/FkdRmUQ.png');
     background-repeat: no-repeat;
-    background-position: 400px 65px;
+    background-position: 350px 80px;
 }
 #room-bar {
     width: 500px;
@@ -230,4 +230,7 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #user-lists .list.bans .user .unban, 
 #user-lists .list.mutes .user .unmute {
     color: #C800FF !important;
+}
+#room-settings .general-settings .value {
+    max-width: 400px;
 }
