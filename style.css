@@ -141,7 +141,7 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #chat .moderation, #chat .moderation .from {
     color: #FFA3F7 !important;
 }
-#chat .mention.is-dj, #chat .mention.is-staff {
+#chat .mention.is-dj:not([data-cid^="9472023-"]), #chat .mention.is-staff:not([data-cid^="9472023-"]) {
     background: linear-gradient(135deg,#FFA3F7 0,#111317 13%,#111317 100%) !important;
 }
 .is-dj .name, .is-staff .name {
