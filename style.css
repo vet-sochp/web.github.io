@@ -255,6 +255,22 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #playlist-delete-button:hover {
     background: linear-gradient(to bottom,#FF478B 0,#FF0068 100%);
 }
+#woot .bottom, 
+#woot.selected,
+.votes-rs .title.woot {
+    background: #DE68EF;
+}
+.votes-rs .title.grab,
+#grab .bottom, 
+#grab.selected {
+    background: #902E9E;
+}
+.votes-rs .title.grab,
+#meh .bottom, 
+#meh.selected {
+    background: #52185A;
+}
+
 
 /* NASTAVENIA PRE ID */
 
