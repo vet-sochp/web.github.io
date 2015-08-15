@@ -265,7 +265,7 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #grab.selected {
     background: #902E9E !important;
 }
-.votes-rs .title.grab,
+.votes-rs .title.meh,
 #meh .bottom, 
 #meh.selected {
     background: #52185A !important;
