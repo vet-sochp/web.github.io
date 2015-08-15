@@ -234,6 +234,9 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #room-settings .general-settings .value {
     max-width: 400px;
 }
+#room-settings .general-settings .description {
+    height: 300px !important;
+}
 
 /* NASTAVENIA PRE ID */
 
