@@ -258,17 +258,17 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #woot .bottom, 
 #woot.selected,
 .votes-rs .title.woot {
-    background: #DE68EF;
+    background: #DE68EF !important;
 }
 .votes-rs .title.grab,
 #grab .bottom, 
 #grab.selected {
-    background: #902E9E;
+    background: #902E9E !important;
 }
 .votes-rs .title.grab,
 #meh .bottom, 
 #meh.selected {
-    background: #52185A;
+    background: #52185A !important;
 }
 
 
