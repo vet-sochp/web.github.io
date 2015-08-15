@@ -281,6 +281,7 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 }
 .media-list.history .score .negative {
     color: #52185A !important;
+    font-weight: bold;
 }
 #vote .crowd-response {
     background: #363B44;
