@@ -244,3 +244,11 @@ div[data-cid^="9472023-"]{
     background: #420B38 !important;
     box-shadow: inset 0px 0px 20px #000;
 }
+
+div[data-cid^="9472023-"] .badge-box {
+    margin: 8px 3px !important;
+}
+div[data-cid^="9472023-"] .badge-box i {
+    background: url(http://i.imgur.com/Zn21gxo.png) !important;
+}
+
