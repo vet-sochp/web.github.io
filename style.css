@@ -6,7 +6,7 @@
 }
 
 .icon { 
-    background-image: url('http://i.imgur.com/NOftlox.png'); 
+    background-image: url('http://i.imgur.com/57rIEAI.png'); 
 }
 #your-active-playlist > .icon-check-purple{ 
     background: url('http://i.imgur.com/8BOvR4D.png') !important; 
@@ -255,20 +255,40 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #playlist-delete-button:hover {
     background: linear-gradient(to bottom,#FF478B 0,#FF0068 100%);
 }
+.media-list.history .score .positive,
 #woot .bottom, 
 #woot.selected,
 .votes-rs .title.woot {
     background: #DE68EF !important;
 }
+.media-list.history .score .grabs span,
 .votes-rs .title.grab,
 #grab .bottom, 
 #grab.selected {
     background: #902E9E !important;
 }
+.media-list.history .score .negative,
 .votes-rs .title.meh,
 #meh .bottom, 
 #meh.selected {
     background: #52185A !important;
+}
+.icon-history-positive {
+    background-position: 0 -366px !important;
+}
+.icon-history-grabs {
+    background-position: -35px -366px !important;
+}
+.icon-history-negative {
+    background-position: -16px -366px !important;
+}
+.media-list.history .icon {
+    top: 2px !important;
+    margin-left: -3px;
+    margin-right: 5px;
+}
+#rcs-progress-container {
+    width: 617px !important;
 }
 
 
