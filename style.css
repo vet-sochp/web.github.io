@@ -250,10 +250,10 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
     background: linear-gradient(to bottom,#FF84FF 0,#F721FF 100%);
 }
 #playlist-shuffle-button:hover {
-    background: linear-gradient(to bottom,#FF478B 0,#FF0068 100%);
+    background: linear-gradient(to bottom,#FF2AEF 0,#8500B3 100%);
 }
 #playlist-delete-button:hover {
-    background: linear-gradient(to bottom,#FF2AEF 0,#8500B3 100%);
+    background: linear-gradient(to bottom,#FF478B 0,#FF0068 100%);
 }
 
 /* NASTAVENIA PRE ID */
