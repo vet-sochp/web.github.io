@@ -246,6 +246,8 @@ div[data-cid^="9472023-"]{
 }
 
 div[data-cid^="9472023-"] .badge-box {
+    width:40px !important;
+    height:40px !important;
     margin: 8px 3px !important;
 }
 div[data-cid^="9472023-"] .badge-box i {
