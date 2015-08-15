@@ -304,3 +304,27 @@ div[data-cid^="4567400-"] .badge-box {
     height:35px !important;
     margin: 5px !important;
 }
+
+/* Tessi */
+div[data-cid^="5477951-"] .badge-box i {
+    background: url('http://i.imgur.com/fx9ygHV.png') !important;
+    width:35px !important;
+    height:35px !important;
+}
+div[data-cid^="5477951-"] .badge-box {
+    width:35px !important;
+    height:35px !important;
+    margin: 5px !important;
+}
+
+/*Dave*/
+div[data-cid^="xxxx-"] .badge-box i {
+    background: url('http://i.imgur.com/2UEX2pE.png') !important;
+    width:35px !important;
+    height:35px !important;
+}
+div[data-cid^="xxxx-"] .badge-box {
+    width:35px !important;
+    height:35px !important;
+    margin: 5px !important;
+}
