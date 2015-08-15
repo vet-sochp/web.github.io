@@ -234,3 +234,15 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #room-settings .general-settings .value {
     max-width: 400px;
 }
+
+
+
+/* NASTAVENIA PRE ID */
+
+/* NARCIS - BOT S IQ 6000 */
+div[data-cid^=9472023-]{
+    border: 1px solid #671558;
+    border-right: 0px;
+    background: #420B38 !important;
+    box-shadow: inset 0px 0px 20px #000;
+}
