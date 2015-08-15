@@ -121,10 +121,10 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 .media-list .row.now-playing .actions {
     background: #FA67FF!important;
 }
-.media-list .selected .actions,
-#playlist-menu .menu .row.selected,
+.media-list .selected .actions, 
+#playlist-menu .menu .row.selected, 
 .media-list .row.selected {
-    background: #4C234C !important;
+    background: rgb(39, 8, 37) !important;
 }
 #user-lists .list.staff .group span {
     color: #EB7ABF;
@@ -146,7 +146,8 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #chat .moderation, #chat .moderation .from {
     color: #FFA3F7 !important;
 }
-#chat .mention.is-dj:not([data-cid^="9472023-"]), #chat .mention.is-staff:not([data-cid^="9472023-"]) {
+#chat .mention.is-dj:not([data-cid^="9472023-"]), 
+#chat .mention.is-staff:not([data-cid^="9472023-"]) {
     background: linear-gradient(135deg,#FFA3F7 0,#111317 13%,#111317 100%) !important;
 }
 .is-dj .name, .is-staff .name {
@@ -272,15 +273,18 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 }
 .media-list.history .score .positive {
     color: #DE68EF !important;
+    font-weight: bold;
 }
 .media-list.history .score .grabs span {
     color: #902E9E !important;
+    font-weight: bold;
 }
 .media-list.history .score .negative {
     color: #52185A !important;
 }
 #vote .crowd-response {
     background: #363B44;
+    font-weight: bold;
 }
 .votes-rs {
     width: 249px !important;
