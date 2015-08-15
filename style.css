@@ -104,6 +104,11 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #footer-user .buttons .button.store:hover {
     background: linear-gradient(to bottom,#FA70FF 0,#F964FF 100%);
 }
+#playlist-create:hover,
+#playlist-import:hover {
+    background: linear-gradient(to bottom,#FA70FF 0,#F964FF 100%);
+    box-shadow: #FF0000 0 0 70px inset;
+}
 #vote .crowd-response {
     margin-top: 1px;
     margin-left: -1px;
