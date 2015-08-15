@@ -244,6 +244,3 @@ div[data-cid^="9472023-"]{
     background: #420B38 !important;
     box-shadow: inset 0px 0px 20px #000;
 }
-div[data-cid^="9472023-"].mention.is-staff {
-    background:none !important;
-}
