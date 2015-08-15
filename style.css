@@ -237,6 +237,10 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #room-settings .general-settings .description {
     height: 300px !important;
 }
+#user-inventory .badges .grid .cell.selected {
+    box-shadow: inset 0 0 0 2px #F678FF;
+    cursor: pointer;
+}
 
 /* NASTAVENIA PRE ID */
 
