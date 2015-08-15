@@ -309,14 +309,16 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 
 /* NASTAVENIA PRE ID */
 
-/* NARCIS - BOT S IQ 6000 */
+/* YUNO - BOT S IQ 6000 */
 div[data-cid^="9472023-"]{
     border: 1px solid #671558;
     border-right: 0px;
     background: #420B38 !important;
     box-shadow: inset 0px 0px 20px #000;
 }
-
+div[data-cid^="9472023-"] .msg .icon {
+    display:none;
+}
 div[data-cid^="9472023-"] .badge-box {
     width:35px !important;
     height:35px !important;
