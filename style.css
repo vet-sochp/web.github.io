@@ -288,8 +288,19 @@ div[data-cid^="9472023-"] .badge-box {
     margin: 5px !important;
 }
 div[data-cid^="9472023-"] .badge-box i {
-    background: url(http://i.imgur.com/Zn21gxo.png) !important;
+    background: url('http://i.imgur.com/Zn21gxo.png') !important;
     width:35px !important;
     height:35px !important;
 }
 
+/* Lilien */
+div[data-cid^="4567400-"] .badge-box i {
+    background: url('http://i.imgur.com/rpeywbh.png') !important;
+    width:35px !important;
+    height:35px !important;
+}
+div[data-cid^="4567400-"] .badge-box {
+    width:35px !important;
+    height:35px !important;
+    margin: 5px !important;
+}
