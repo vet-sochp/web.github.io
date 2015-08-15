@@ -250,5 +250,7 @@ div[data-cid^="9472023-"] .badge-box {
 }
 div[data-cid^="9472023-"] .badge-box i {
     background: url(http://i.imgur.com/Zn21gxo.png) !important;
+    width:40px !important;
+    height:40px !important;
 }
 
