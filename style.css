@@ -249,13 +249,13 @@ div[data-cid^="9472023-"]{
 }
 
 div[data-cid^="9472023-"] .badge-box {
-    width:40px !important;
-    height:40px !important;
-    margin: 8px 3px !important;
+    width:35px !important;
+    height:35px !important;
+    margin: 5px !important;
 }
 div[data-cid^="9472023-"] .badge-box i {
     background: url(http://i.imgur.com/Zn21gxo.png) !important;
-    width:40px !important;
-    height:40px !important;
+    width:35px !important;
+    height:35px !important;
 }
 
