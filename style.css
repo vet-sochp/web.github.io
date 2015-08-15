@@ -223,10 +223,11 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #chat .user-action {
     color: #AF3E9B;
 }
-#user-lists .list.bans .user .label, #user-lists .list.mutes .user .label {
-    position: relative;
-    top: 24px;
-    margin-left: 17px;
+#user-lists .list.bans .user .label, 
+#user-lists .list.mutes .user .label {
     color: #EB7ABF;
-    font-size: 12px;
+}
+#user-lists .list.bans .user .unban, 
+#user-lists .list.mutes .user .unmute {
+    color: #C800FF !important;
 }
