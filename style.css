@@ -255,23 +255,37 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #playlist-delete-button:hover {
     background: linear-gradient(to bottom,#FF478B 0,#FF0068 100%);
 }
-.media-list.history .score .positive,
 #woot .bottom, 
 #woot.selected,
 .votes-rs .title.woot {
     background: #DE68EF !important;
 }
-.media-list.history .score .grabs span,
 .votes-rs .title.grab,
 #grab .bottom, 
 #grab.selected {
     background: #902E9E !important;
 }
-.media-list.history .score .negative,
 .votes-rs .title.meh,
 #meh .bottom, 
 #meh.selected {
     background: #52185A !important;
+}
+.media-list.history .score .positive {
+    color: #DE68EF !important;
+}
+.media-list.history .score .grabs span {
+    color: #902E9E !important;
+}
+.media-list.history .score .negative {
+    color: #52185A !important;
+}
+#vote .crowd-response {
+    background: #363B44;
+}
+.votes-rs {
+    width: 249px !important;
+    background: #363B44;
+    border-bottom: 1px solid #000000;
 }
 .icon-history-positive {
     background-position: 0 -366px !important;
