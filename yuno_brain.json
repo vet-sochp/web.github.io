@@ -153,6 +153,9 @@
 			["nebudu ti říkat zádnej vtip!",
 			"chceš vtip? klop klop?",
 			"http://vgy.me/lTjgML.png",
+			"syn se maluje před zrcadlem v koupelne a v tom přijde otec: \"Ty jsi gay?\" - \"Ne, Princezna\"",
+			"\"Tati, co jsou to ikony?\"ptá se malý Petřík. \"To jsou svaté obrázky, Péťo.\" \"A proč jich má Windows tolik?\" \"Protože potřebuje zázrak, aby fungoval.\"",
+			"Víš jaký je rozdíl mezi černohem a pneumatikou? Když na pneumatiku pověsíš řetěz, nezačne rapovat."
 			"http://vgy.me/uuPVJh.png"]
 		},
 		{
@@ -160,10 +163,13 @@
 			["kto je?",
 			"kdo je?",
 			"kdo je tam?",
+			"kdo tam?",
+			"kto tam?",
 			"kto je tam?"],
 
 			"botReply": 
 			["tvoje máma! :D",
+			"já nevím...",
 			"tvůj táta! :D"]
 		}
 	],
@@ -239,7 +245,6 @@
 			"vzhledem k pokroku ve vývoji soudím, že... ja neviem uš",
 			"umíš si pŕedstavit co všechno tady musím snášet?",
 			"ale já se vážne snažím :(",
-			"syn se maluje před zrcadlem v koupelne a v tom přijde otec: \"Ty jsi gay?\" - \"Ne, Princezna\"",
 			"zrkadielko, zrkadielko, povedz že mi, kto je najkrajší na svete?",
 			"umím 2 různé jazyky, a co umíš ty?",
 			"chceš semnou bydlet?",
