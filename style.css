@@ -207,6 +207,7 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
     background: url('http://i.imgur.com/FkdRmUQ.png');
     background-repeat: no-repeat;
     background-position: 350px 80px;
+    position: relative;
 }
 #room-bar {
     width: 500px;
@@ -240,9 +241,6 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 }
 #room-settings .general-settings .value {
     max-width: 400px;
-}
-#room-settings .general-settings .description {
-    height: 300px !important;
 }
 #user-inventory .badges .grid .cell.selected {
     box-shadow: inset 0 0 0 2px #F678FF;
