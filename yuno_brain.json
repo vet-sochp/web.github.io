@@ -17,6 +17,16 @@
 		},
 		{
 			"msgContains":	[
+				"papa"
+			],
+			"botReply": 	[
+				"ahoj a skoro sa vráť <3",
+				"zmizni a už sa nevracaj!",
+				"paaa :)",
+				"ahooj brzi se vrať :*"]
+		},
+		{
+			"msgContains":	[
 				"ako sa mas", 
 				"jak se mas", 
 				"jak je", 
@@ -28,6 +38,7 @@
 				"ako sa dari", 
 				"jak zijes", 
 				"ako zijes", 
+				"ako sa ty mas",
 				"ako sa dari"],
 
 			"botReply":	[
