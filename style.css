@@ -206,7 +206,8 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #room-settings .general-settings {
     background: url('http://i.imgur.com/FkdRmUQ.png');
     background-repeat: no-repeat;
-    background-position: 70% 80px;
+    background-position: 90% 80px;
+    position: relative;
 }
 #room-bar {
     width: 500px;
