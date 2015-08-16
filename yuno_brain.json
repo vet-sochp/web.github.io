@@ -12,7 +12,7 @@
 			"ahoj ako sa máš? :)",
 			"nazdárek",
 			"ahoj lasko <3",
-			"ahoj dlho si tu nebola",
+			"ahoj dlho si tu nebol/a",
 			"\\o"]
 		},
 		{
@@ -36,14 +36,15 @@
 			"fajn!",
 			"tyy vyborne :D",
 			"na prd",
-			"bolo by lepšie keby si tu nebol",
+			"bolo by lepšie keby si tu nebol/a",
 			"čo sa staráš"]			
 		},
 		{
 			"msgContains": 
 			["preco?", 
 			"co?", 
-			"jak?", 
+			"jak?",
+			"jak to?"
 			"proc?"],
 
 			"botReply": 
@@ -52,7 +53,7 @@
 			"jen tak :P",
 			"co ja vim zeptej se nekoho jineho",
 			"preto",
-			"uz som ti to pisal"]
+			"uz som ti to pisala"]
 		},
 		{
 			"msgContains": 
@@ -71,10 +72,10 @@
 
 			"botReply": 
 			["nie",
-			"ano..teda vlastne ne",
+			"ano... teda vlastne ne",
 			"ani omylem!",
 			"to víš že jo <3",
-			"miluji tě od první chvíle co jsme se potkali",
+			"miluji tě od první chvíle, co jsme se potkali",
 			"ne, tvého bráchu",
 			"NE!",
 			"to víš =) že ne!",
@@ -106,7 +107,8 @@
 			["4"],
 
 			"botReply": 
-			["tyy vyborne!"]
+			["tyy vyborne!",
+			"ty umíš počtat :O"]
 		},
 		{
 			"msgContains": 
@@ -123,10 +125,13 @@
 		{
 			"msgContains": 
 			["ano",
+			"jo",
 			"jasne"],
 
 			"botReply": 
 			["aha, a čo ja stým?",
+			"tak teda jo no",
+			"myslíš, že jo?"
 			"no dobre a čo sa mam teraz pokakať?"]
 		},
 		{
@@ -134,12 +139,17 @@
 			["ne", "nie"],
 
 			"botReply": 
-			["tak zdechni"]
+			["tak zdechni",
+			"žádne ne -,-",
+			"\"Ne\" neberu jako odpověď"
+			"Jak to, že ne?!"]
 		},
 		{
 			"msgContains": 
 			["koho"],
-			"botReply": ["mikuláša na severnom póle",
+		
+			"botReply": 
+			["mikuláša na severnom póle",
 			"nevim",
 			"koho co?",
 			"seba?",
@@ -205,6 +215,7 @@
 
 			"botReply": 
 			["co zas já?",
+			"už zase mě pomlouváte?",
 			"proč se o mě bavíte?"]
 		},
 		{
@@ -212,9 +223,9 @@
 			["tess"],
 
 			"botReply":
-			["tessi má nejlepší roomku na celém plugu!",
-			"proč se bavíte o tessinke?",
-			"tessi je moje máma :D"]
+			["Tessi má nejlepší roomku na celém plugu!",
+			"proč se bavíte o Tessinke?",
+			"Tessi je moje máma :D"]
 		}
 		],
 
