@@ -229,6 +229,7 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #chat .user-action {
     color: #AF3E9B;
 }
+#chat-messages .timestamp { color: #CE93C3 !important }
 #user-lists .list.bans .user .label, 
 #user-lists .list.mutes .user .label {
     color: #EB7ABF;
