@@ -1,236 +1,238 @@
 {
 	"onMention": [
 		{
-			"msgContains": 
-			["ahoj", 
-			"čau", 
-			"nazdar"],
+			"msgContains": 	[
+				"ahoj", 
+				"čau", 
+				"nazdar"],
 
-			"botReply": 
-			["ahoj:)",
-			"čauky",
-			"ahoj ako sa máš? :)",
-			"nazdárek",
-			"ahoj lasko <3",
-			"ahoj dlho si tu nebol/a",
-			"\\o"]
+			"botReply":	[
+				"ahoj:)",
+				"čauky",
+				"ahoj ako sa máš? :)",
+				"nazdárek",
+				"ahoj lasko <3",
+				"ahoj dlho si tu nebol/a",
+				"\\o"]
 		},
 		{
-			"msgContains": 
-			["ako sa mas", 
-			"jak se mas", 
-			"jak je", 
-			"jak to de", 
-			"jak se vede", 
-			"jak se dari", 
-			"jak se mame", 
-			"ako sa mame", 
-			"ako sa dari", 
-			"jak zijes", 
-			"ako zijes", 
-			"ako sa dari"],
+			"msgContains":	[
+				"ako sa mas", 
+				"jak se mas", 
+				"jak je", 
+				"jak to de", 
+				"jak se vede", 
+				"jak se dari", 
+				"jak se mame", 
+				"ako sa mame", 
+				"ako sa dari", 
+				"jak zijes", 
+				"ako zijes", 
+				"ako sa dari"],
 
-			"botReply": 
-			["dobre a ty?", 
-			"zle :(", 
-			"fajn!",
-			"tyy vyborne :D",
-			"na prd",
-			"bolo by lepšie keby si tu nebol/a",
-			"čo sa staráš"]			
+			"botReply":	[
+				"dobre a ty?", 
+				"zle :(", 
+				"fajn!",
+				"tyy vyborne :D",
+				"na prd",
+				"bolo by lepšie keby si tu nebol/a",
+				"čo sa staráš"]			
 		},
 		{
-			"msgContains": 
-			["preco?", 
-			"co?", 
-			"jak?",
-			"jak to?",
-			"proc?"],
+			"msgContains":	[
+				"preco?", 
+				"co?", 
+				"jak?",
+				"jak to?",
+				"proc?"],
 
-			"botReply": 
-			["ja neviem uš",
-			"lebo medved na 4 je maco",
-			"jen tak :P",
-			"co ja vim zeptej se nekoho jineho",
-			"preto",
-			"uz som ti to pisala"]
+			"botReply":	[
+				"ja neviem uš",
+				"lebo medved na 4 je maco",
+				"jen tak :P",
+				"co ja vim zeptej se nekoho jineho",
+				"preto",
+				"uz som ti to pisala"]
 		},
 		{
-			"msgContains": 
-			["mas ma rada",
-			"mas me rada",
-			"mas ji rada",
-			"mas ju rada",
-			"mas ho rada",
-			"lubi ma",
-			"miluje ma",
-			"ma ma rad",
-			"ma ma rada",
-			"mas rada",
-			"milujes ji",
-			"milujes ho",
-			"milujes",
-			"lubis",
-			"milujes ma",
-			"milujes me"],
+			"msgContains":	[
+				"mas ma rada",
+				"mas me rada",
+				"mas ji rada",
+				"mas ju rada",
+				"mas ho rada",
+				"lubi ma",
+				"miluje ma",
+				"ma ma rad",
+				"ma ma rada",
+				"mas rada",
+				"milujes ji",
+				"milujes ho",
+				"milujes",
+				"lubis",
+				"milujes ma",
+				"milujes me"],
 
-			"botReply": 
-			["nie",
-			"ano... teda vlastne ne",
-			"ani omylem!",
-			"to víš že jo <3",
-			"miluji tě od první chvíle, co jsme se potkali",
-			"ne, tvého bráchu",
-			"NE!",
-			"to víš =) že ne!",
-			"jo možná ve snu",
-			"ano <3"]
+			"botReply":	[
+				"nie",
+				"ano... teda vlastne ne",
+				"ani omylem!",
+				"to víš že jo <3",
+				"miluji tě od první chvíle, co jsme se potkali",
+				"ne, tvého bráchu",
+				"NE!",
+				"to víš =) že ne!",
+				"jo možná ve snu",
+				"ano <3"]
 		},
 		{
-			"msgContains": 
-			["aj ja",
-			"ja tebe taky",
-			"aj ja teba"],
+			"msgContains":	[
+				"aj ja",
+				"ja tebe taky",
+				"aj ja teba"],
 
-			"botReply": 
-			["čo aj ty?",
-			"aj ty?",
-			"no už len toto mi chýbalo"]
+			"botReply":	[
+				"čo aj ty?",
+				"aj ty?",
+				"no už len toto mi chýbalo"]
 		},
 		{
-			"msgContains": 
-			["kde byvas",
-			"kde bydlis"],
+			"msgContains":	[
+				"kde byvas",
+				"kde bydlis"],
 
-			"botReply": 
-			["v koutiku :*",
-			"tady :)"]
+			"botReply":	[
+				"v koutiku :*",
+				"tady :)"]
 		},
 		{
-			"msgContains": 
-			["4"],
+			"msgContains":	[
+				"4"],
 
-			"botReply": 
-			["tyy vyborne!",
-			"ty umíš počítat :O"]
+			"botReply":	[
+				"tyy vyborne!",
+				"ty umíš počítat :O"]
 		},
 		{
-			"msgContains": 
-			["kolko mas rokov",
-			"kolik ti je",
-			"tvuj vek?"],
+			"msgContains":	[
+				"kolko mas rokov",
+				"kolik ti je",
+				"tvuj vek?"],
 
-			"botReply": 
-			["2,5 :(",
-			"zítra 8",
-			"za 5 let mi bude o 5 víc než kolik mi je teď",
-			"tohle fakt nepotřebuješ vědet :)"]
+			"botReply":	[
+				"2,5 :(",
+				"zítra 8",
+				"za 5 let mi bude o 5 víc než kolik mi je teď",
+				"tohle fakt nepotřebuješ vědet :)"]
 		},
 		{
-			"msgContains": 
-			["ano",
-			"jo",
-			"jasne"],
+			"msgContains":	[
+				"ano",
+				"jo",
+				"jasne"],
 
-			"botReply": 
-			["aha, a čo ja stým?",
-			"tak teda jo no",
-			"myslíš, že jo?",
-			"no dobre a čo sa mam teraz pokakať?"]
+			"botReply":	[
+				"aha, a čo ja stým?",
+				"tak teda jo no",
+				"myslíš, že jo?",
+				"no dobre a čo sa mam teraz pokakať?"]
 		},
 		{
-			"msgContains": 
-			["ne", "nie"],
+			"msgContains":	[
+				"ne", 
+				"nie"],
 
-			"botReply": 
-			["tak zdechni",
-			"žádne ne -,-",
-			"\"Ne\" neberu jako odpověď",
-			"Tak ne no",
-			"Jak to, že ne?!"]
+			"botReply":	[
+				"tak zdechni",
+				"žádne ne -,-",
+				"\"Ne\" neberu jako odpověď",
+				"Tak ne no",
+				"Jak to, že ne?!"]
 		},
 		{
-			"msgContains": 
-			["koho"],
+			"msgContains":	[
+				"koho"],
 		
-			"botReply": 
-			["mikuláša na severnom póle",
-			"nevim",
-			"koho co?",
-			"seba?",
-			"někoho"]
+			"botReply":	[
+				"mikuláša na severnom póle",
+				"nevim",
+				"koho co?",
+				"seba?",
+				"někoho"]
 		},
 		{
-			"msgContains": 
-			["vtip"],
+			"msgContains":	[
+				"vtip"],
 
-			"botReply": 
-			["nebudu ti říkat zádnej vtip!",
-			"chceš vtip? klop klop?",
-			"http://vgy.me/lTjgML.png",
-			"syn se maluje před zrcadlem v koupelne a v tom přijde otec: \"Ty jsi gay?\" - \"Ne, Princezna\"",
-			"\"Tati, co jsou to ikony?\"ptá se malý Petřík. \"To jsou svaté obrázky, Péťo.\" \"A proč jich má Windows tolik?\" \"Protože potřebuje zázrak, aby fungoval.\"",
-			"Víš jaký je rozdíl mezi černohem a pneumatikou? Když na pneumatiku pověsíš řetěz, nezačne rapovat.",
-			"http://vgy.me/uuPVJh.png"]
+			"botReply":	[
+				"nebudu ti říkat zádnej vtip!",
+				"chceš vtip? klop klop?",
+				"http://vgy.me/lTjgML.png",
+				"syn se maluje před zrcadlem v koupelne a v tom přijde otec: \"Ty jsi gay?\" - \"Ne, Princezna\"",
+				"\"Tati, co jsou to ikony?\"ptá se malý Petřík. \"To jsou svaté obrázky, Péťo.\" \"A proč jich má Windows tolik?\" \"Protože potřebuje zázrak, aby fungoval.\"",
+				"Víš jaký je rozdíl mezi černohem a pneumatikou? Když na pneumatiku pověsíš řetěz, nezačne rapovat.",
+				"http://vgy.me/uuPVJh.png"]
 		},
 		{
-			"msgContains": 
-			["kto je?",
-			"kdo je?",
-			"kdo je tam?",
-			"kdo tam?",
-			"kto tam?",
-			"kto je tam?"],
+			"msgContains":	[
+				"kto je?",
+				"kdo je?",
+				"kdo je tam?",
+				"kdo tam?",
+				"kto tam?",
+				"kto je tam?"],
 
-			"botReply": 
-			["tvoje máma! :D",
-			"já nevím...",
-			"tvůj táta! :D"]
+			"botReply":	[
+				"tvoje máma! :D",
+				"já nevím...",
+				"tvůj táta! :D"]
 		}
 	],
 
 	"offMention": 	[{
-			"msgContains": 
-			["ahoj", 
-			"cau", 
-			"cc", 
-			"zdravim"],
+			"msgContains":	[
+				"ahoj", 
+				"cau", 
+				"cc", 
+				"zdravim"],
 
-			"botReply": 
-			["ahoj", 
-			"cauko", 
-			"ahoj :*", 
-			"ahoj <3", 
-			"ahoooj :)"]
+			"botReply":	[
+				"ahoj", 
+				"cauko", 
+				"ahoj :*", 
+				"ahoj <3", 
+				"ahoooj :)"]
 		},
 		{
-			"msgContains": 
-			["dobru noc", "dobrou"],
+			"msgContains":	[
+				"dobru noc", 
+				"dobrou"],
 
-			"botReply": 
-			["dobru noc <3",  
-			"dobru noc :*", 
-			"este nechod spat :(", 
-			"nech sa ti o mne sniva!", 
-			"prajem krasne nocne mory <3"]
+			"botReply":	[
+				"dobru noc <3",  
+				"dobru noc :*", 
+				"este nechod spat :(", 
+				"nech sa ti o mne sniva!", 
+				"prajem krasne nocne mory <3"]
 		},
 		{
-			"msgContains": 
-			["yuno"],
+			"msgContains":	[
+				"yuno"],
 
-			"botReply": 
-			["co zas já?",
-			"už zase mě pomlouváte?",
-			"proč se o mě bavíte?"]
+			"botReply":	[
+				"co zas já?",
+				"už zase mě pomlouváte?",
+				"proč se o mě bavíte?"]
 		},
 		{
-			"msgContains":
-			["tess"],
+			"msgContains":	[
+				"tess"],
 
-			"botReply":
-			["Tessi má nejlepší roomku na celém plugu!",
-			"proč se bavíte o Tessinke?",
-			"Tessi je moje máma :D"]
+			"botReply":	[
+				"Tessi má nejlepší roomku na celém plugu!",
+				"proč se bavíte o Tessinke?",
+				"Tessi je moje máma :D"]
 		}
 		],
 
