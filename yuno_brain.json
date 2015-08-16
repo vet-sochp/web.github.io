@@ -219,6 +219,20 @@
 		},
 		{
 			"msgContains":	[
+				"dakujem",
+				"dekuju",
+				"dekuji",
+				"diky",
+				"thx"
+			],
+			"botReply": 	[
+				"nemáš za čo :)",
+				"nieje za čo :)",
+				"nz :)",
+				"zamálo :)"]
+		},
+		{
+			"msgContains":	[
 				"dobru noc", 
 				"dobrou"],
 
