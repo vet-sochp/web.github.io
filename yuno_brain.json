@@ -1,0 +1,249 @@
+{
+	"onMention": [
+		{
+			"msgContains": 
+			["ahoj", 
+			"čau", 
+			"nazdar"],
+
+			"botReply": 
+			["ahoj:)",
+			"čauky",
+			"ahoj ako sa máš? :)",
+			"nazdárek",
+			"ahoj lasko <3",
+			"ahoj dlho si tu nebola",
+			"\\o"]
+		},
+		{
+			"msgContains": 
+			["ako sa mas", 
+			"jak se mas", 
+			"jak je", 
+			"jak to de", 
+			"jak se vede", 
+			"jak se dari", 
+			"jak se mame", 
+			"ako sa mame", 
+			"ako sa dari", 
+			"jak zijes", 
+			"ako zijes", 
+			"ako sa dari"],
+
+			"botReply": 
+			["dobre a ty?", 
+			"zle :(", 
+			"fajn!",
+			"tyy vyborne :D",
+			"na prd",
+			"bolo by lepšie keby si tu nebol",
+			"čo sa staráš"]			
+		},
+		{
+			"msgContains": 
+			["preco?", 
+			"co?", 
+			"jak?", 
+			"proc?"],
+
+			"botReply": 
+			["ja neviem uš",
+			"lebo medved na 4 je maco",
+			"jen tak :P",
+			"co ja vim zeptej se nekoho jineho",
+			"preto",
+			"uz som ti to pisal"]
+		},
+		{
+			"msgContains": 
+			["mas ma rada",
+			"mas me rada",
+			"mas ji rada",
+			"mas ju rada",
+			"mas ho rada",
+			"mas rada",
+			"milujes ji",
+			"milujes ho",
+			"milujes",
+			"lubis",
+			"milujes ma",
+			"milujes me"],
+
+			"botReply": 
+			["nie",
+			"ano..teda vlastne ne",
+			"ani omylem!",
+			"to víš že jo <3",
+			"miluji tě od první chvíle co jsme se potkali",
+			"ne, tvého bráchu",
+			"NE!",
+			"to víš =) že ne!",
+			"jo možná ve snu",
+			"ano <3"]
+		},
+		{
+			"msgContains": 
+			["aj ja",
+			"ja tebe taky",
+			"aj ja teba"],
+
+			"botReply": 
+			["čo aj ty?",
+			"aj ty?",
+			"no už len toto mi chýbalo"]
+		},
+		{
+			"msgContains": 
+			["kde byvas",
+			"kde bydlis"],
+
+			"botReply": 
+			["v koutiku :*",
+			"tady :)"]
+		},
+		{
+			"msgContains": 
+			["4"],
+
+			"botReply": 
+			["tyy vyborne!"]
+		},
+		{
+			"msgContains": 
+			["kolko mas rokov",
+			"kolik ti je",
+			"tvuj vek?"],
+
+			"botReply": 
+			["2,5 :(",
+			"zítra 8",
+			"za 5 let mi bude o 5 víc než kolik mi je teď",
+			"tohle fakt nepotřebuješ vědet :)"]
+		},
+		{
+			"msgContains": 
+			["ano",
+			"jasne"],
+
+			"botReply": 
+			["aha, a čo ja stým?",
+			"no dobre a čo sa mam teraz pokakať?"]
+		},
+		{
+			"msgContains": 
+			["ne", "nie"],
+
+			"botReply": 
+			["tak zdechni"]
+		},
+		{
+			"msgContains": 
+			["koho"],
+			"botReply": ["mikuláša na severnom póle",
+			"nevim",
+			"koho co?",
+			"seba?",
+			"někoho"]
+		},
+		{
+			"msgContains": 
+			["vtip"],
+
+			"botReply": 
+			["nebudu ti říkat zádnej vtip!",
+			"chceš vtip? klop klop?",
+			"http://vgy.me/lTjgML.png",
+			"http://vgy.me/uuPVJh.png"]
+		},
+		{
+			"msgContains": 
+			["kto je?",
+			"kdo je?",
+			"kdo je tam?",
+			"kto je tam?"],
+
+			"botReply": 
+			["tvoje máma! :D",
+			"tvůj táta! :D"]
+		}
+	],
+
+	"offMention": 	[{
+			"msgContains": 
+			["ahoj", 
+			"cau", 
+			"cc", 
+			"zdravim"],
+
+			"botReply": 
+			["ahoj", 
+			"cauko", 
+			"ahoj :*", 
+			"ahoj <3", 
+			"ahoooj :)"]
+		},
+		{
+			"msgContains": 
+			["dobru noc", "dobrou"],
+
+			"botReply": 
+			["dobru noc <3",  
+			"dobru noc :*", 
+			"este nechod spat :(", 
+			"nech sa ti o mne sniva!", 
+			"prajem krasne nocne mory <3"]
+		},
+		{
+			"msgContains": 
+			["yuno"],
+
+			"botReply": 
+			["co zas já?",
+			"proč se o mě bavíte?"]
+		},
+		{
+			"msgContains":
+			["tess"],
+
+			"botReply":
+			["tessi má nejlepší roomku na celém plugu!",
+			"proč se bavíte o tessinke?",
+			"tessi je moje máma :D"]
+		}
+		],
+
+
+	"global": [
+			"nechápem ti ani pol slova",
+			"Já jsem Gαѕαi Yunσ, plug-bot s IQ 6000. Což je stejně, jako má 6000 učitelů tělocviku.",
+			"na toto ti neviem odpovedat",
+			"ne",
+			"no dovol",
+			"promin co jsi to řekl?",
+			"jedna stará kočičí moudrost, která se sem teď moc hezky hodí, říká \"Co to sakra meleš, ty vořechu!\"",
+			"do kosmu",
+			"tě péro, sombréro!",
+			"jsi užitečný jako automat na kondomy ve Vatikánu!",
+			"no, jak se říká, pane jo",
+			"to bych si radši pomazal genitálie rybí pastou a strčil je do tůňky s piraněmi!",
+			"tady něco krásně voní.. Co to je? Jsem to já!",
+			"mám tě ráda :)",
+			"v pondělí nemůžu, páchám sebevraždu.",
+			"taky ne",
+			"máš sestru?",
+			"kolko máš prosimťa rokov?",
+			"vieš kolko je 2+2?",
+			"vzhledem k atmosférickému tlaku a vlivu měsíce na příliv a odliv si myslím že... Hele sorry brácho, ale já fakt nevím, co ti na to mám říct.",
+			"za předpokladu že vesmír je nekonečný, a Tessi je hostitelka téhle komunity... ty nevieš uš?",
+			"to zní velmi zajímavě. Tak zajímavě, že s tebou teď přeruším konverzaci a budu nad tím přemýšlet",
+			"vzhledem k pokroku ve vývoji soudím, že... ja neviem uš",
+			"umíš si pŕedstavit co všechno tady musím snášet?",
+			"ale já se vážne snažím :(",
+			"syn se maluje před zrcadlem v koupelne a v tom přijde otec: \"Ty jsi gay?\" - \"Ne, Princezna\"",
+			"zrkadielko, zrkadielko, povedz že mi, kto je najkrajší na svete?",
+			"umím 2 různé jazyky, a co umíš ty?",
+			"chceš semnou bydlet?",
+			"někteří lidé prostě potřebují obejmout... Okolo krku a provazem! Ale nemám nic proti tobě..."
+		]
+
+}
