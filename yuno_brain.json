@@ -141,18 +141,6 @@
 		},
 		{
 			"msgContains":	[
-				"ne", 
-				"nie"],
-
-			"botReply":	[
-				"tak zdechni",
-				"žádne ne -,-",
-				"\"Ne\" neberu jako odpověď",
-				"Tak ne no",
-				"Jak to, že ne?!"]
-		},
-		{
-			"msgContains":	[
 				"koho"],
 		
 			"botReply":	[
