@@ -4,6 +4,8 @@
 			"msgContains": 	[
 				"ahoj", 
 				"čau", 
+				"ahojky",
+				"čauky",
 				"nazdar"],
 
 			"botReply":	[
@@ -141,6 +143,17 @@
 		},
 		{
 			"msgContains":	[
+				"jsi zlá",
+				"nebuď zlá"],
+
+			"botReply":	[
+				"nejsem zlá :(",
+				"proč si myslíš, že jsem zlá? :(",
+				"ale já jsem milá a hodná :(",
+				"ty jsi zlý/á!"]
+		},
+		{
+			"msgContains":	[
 				"koho"],
 		
 			"botReply":	[
@@ -199,6 +212,7 @@
 			"msgContains":	[
 				"papa",
 				"ja jdu jinam",
+				"jdu afk",
 				"jdu pryc"
 			],
 			"botReply": 	[
@@ -224,6 +238,8 @@
 		{
 			"msgContains":	[
 				"dobru noc", 
+				"brou",
+				"brou noc",
 				"dobrou"],
 
 			"botReply":	[
@@ -240,6 +256,7 @@
 			"botReply":	[
 				"co zas já?",
 				"už zase mě pomlouváte?",
+				"co mi chceš?",
 				"proč se o mě bavíte?"]
 		},
 		{
@@ -265,13 +282,13 @@
 			"moja slovná zásoba neobsahuje odpoveď na tvoju správu",
 			"ne",
 			"no dovol",
-			"promin co jsi to řekl?",
+			"promin co jsi to řekl/a?",
 			"jedna stará kočičí moudrost, která se sem teď moc hezky hodí, říká \"Co to sakra meleš, ty vořechu!\"",
 			"akej farby máte chladničku?",
 			"tě péro, sombréro!",
-			"jsi užitečný jako automat na kondomy ve Vatikánu!",
+			"jsi užitečný/á jako automat na kondomy ve Vatikánu!",
 			"no, jak se říká, pane jo",
-			"to bych si radši pomazal genitálie rybí pastou a strčil je do tůňky s piraněmi!",
+			"to bych si radši pomazala genitálie rybí pastou a strčila je do tůňky s piraněmi!",
 			"tady něco krásně voní.. Co to je? Jsem to já!",
 			"mám tě ráda :)",
 			"v pondělí nemůžu, páchám sebevraždu.",
