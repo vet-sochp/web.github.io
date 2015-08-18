@@ -103,7 +103,8 @@
 		{
 			"msgContains":	[
 				"kde byvas",
-				"kde bydlis"],
+				"kde bydlis",
+				"kde zijes"],
 
 			"botReply":	[
 				"v koutiku :*",
@@ -129,6 +130,29 @@
 				"za 5 let mi bude o 5 víc než kolik mi je teď",
 				"tohle fakt nepotřebuješ vědet :)"]
 		},
+		{
+			"msgContains": 	[
+				"<span class="emoji-glow"><span class="emoji emoji-2764"></span></span>"
+				],
+			"botReply":	[
+				"<3",
+				"srdiečko je láska <3",
+				"jsi zamilovaní?"
+				]
+		},
+		{
+			"msgContains": 	[
+				"<span class="emoji-glow"><span class="emoji emoji-1f626"></span></span>"
+				],
+			"botReply":	[
+				"co je? :(",
+				"proč smutnej smajlík? :(",
+				"co se stalo? :(",
+				"řekla jsem neco špatne? :("
+				]
+		},
+		
+		
 		{
 			"msgContains":	[
 				"ano",
