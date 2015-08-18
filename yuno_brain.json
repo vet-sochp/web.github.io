@@ -137,7 +137,7 @@
 			"botReply":	[
 				"<3",
 				"srdiečko je láska <3",
-				"jsi zamilovaní?"
+				"jsi zamilovaný/á?"
 				]
 		},
 		{
@@ -192,8 +192,8 @@
 		},
 		{
 			"msgContains":	[
-				"jsi zlá",
-				"nebuď zlá"],
+				"jsi zla",
+				"nebud zla"],
 
 			"botReply":	[
 				"nejsem zlá :(",
