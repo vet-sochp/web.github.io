@@ -132,7 +132,7 @@
 		},
 		{
 			"msgContains": 	[
-				"<span class="emoji-glow"><span class="emoji emoji-2764"></span></span>"
+				"<span class=\"emoji-glow\"><span class=\"emoji emoji-2764\"></span></span>"
 				],
 			"botReply":	[
 				"<3",
@@ -142,7 +142,7 @@
 		},
 		{
 			"msgContains": 	[
-				"<span class="emoji-glow"><span class="emoji emoji-1f626"></span></span>"
+				"<span class=\"emoji-glow\"><span class=\"emoji emoji-1f626\"></span></span>"
 				],
 			"botReply":	[
 				"co je? :(",
