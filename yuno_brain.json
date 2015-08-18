@@ -151,6 +151,19 @@
 				"řekla jsem neco špatne? :("
 				]
 		},
+		{
+			"msgContains": 	[
+				"<span class="emoji-glow"><span class="emoji emoji-1f600"></span></span>"
+				],
+			"botReply":	[
+				"co je ti tady k smíchu?",
+				":D :D :D hahahahha :D",
+				"zasmáli sme se no",
+				"zdám se ti směšná?",
+				"já jsem neřekla vtip :D",
+				"nesměj se! :D"
+				]
+		},
 		
 		
 		{
@@ -339,6 +352,8 @@
 			"umím 2 různé jazyky, a co umíš ty?",
 			"chceš se mnou bydlet?",
 			"krucajs element donr wetr!",
+			"aha",
+			"mám ráda sladkosti <3 a co máš rád/a ty?",
 			"někteří lidé prostě potřebují obejmout... Okolo krku a provazem! Ale nemám nic proti tobě..."
 		]
 
