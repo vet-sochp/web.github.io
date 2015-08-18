@@ -164,6 +164,18 @@
 				"nesměj se! :D"
 				]
 		},
+		{
+			"msgContains": 	[
+				"<span class=\"emoji-glow\"><span class=\"emoji emoji-1f617\"></span></span>"
+				],
+			"botReply":	[
+				":*",
+				"miluji te :*",
+				"už dávno jsem ti to chtela říct.. já..já...MILUJI TĚ <3 :* :*",
+				"pusa? kam? :*",
+				"já te políbím že zapomeneš jak jse jmenuješ! :*"
+				]
+		},
 		
 		
 		{
