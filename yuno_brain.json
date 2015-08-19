@@ -326,9 +326,7 @@
 
 			"botReply":	[
 				"co zas já?",
-				"už zase mě pomlouváte?",
-				"co mi chceš?",
-				"proč se o mě bavíte?"]
+				"co mi chceš?"]
 		},
 		{
 			"msgType": "mustBe",
