@@ -95,7 +95,7 @@
 				"tady :)"]
 		},
 		{
-			"msgType": "contains",
+			"msgType": "mustBe",
 			"msgContains":	[
 				"4"],
 
@@ -164,6 +164,16 @@
 				"už dávno jsem ti to chtela říct.. já..já...MILUJI TĚ <3 :* :*",
 				"pusa? kam? :*",
 				"já te políbím že zapomeneš jak se jmenuješ! :*"
+				]
+		},
+		"msgType": "contains",
+			"msgContains": 	[
+				"<span class=\"emoji-glow\"><span class=\"emoji emoji-1f61b\"></span></span>"
+				],
+			"botReply":	[
+				"nevyplazuj na mě jazyk!",
+				"taky umím vyplazovat jazyk :P",
+				":P"
 				]
 		},
 		
@@ -324,12 +334,29 @@
 				"proč se bavíte o Tessinke?",
 				"Tessi je moje máma :D"]
 		}
+		{
+			"msgType": "mustBe",
+			"msgContains":	[
+				"ne",
+				"ne!",
+				"ne -,-",
+				"nie",
+				"nie -,-",
+				"nie!"],
+
+			"botReply":	[
+				"žádné ne -,-",
+				"a proč ne?",
+				"Ne neberu jako odpověď!",
+				"Ne? NE?!"]
+		}
 		],
 
 	"setAiOff": [
 			"zdechla jsem :'(",
 			"dobre už jsem ticho!",
-			"ty zdechni!"
+			"ty zdechni!",
+			"jak chceš!"
 		],
 
 	"global": [
@@ -373,7 +400,11 @@
 			"krucajs element donr wetr!",
 			"aha",
 			"mám ráda sladkosti <3 a co máš rád/a ty?",
-			"někteří lidé prostě potřebují obejmout... Okolo krku a provazem! Ale nemám nic proti tobě..."
+			"někteří lidé prostě potřebují obejmout... Okolo krku a provazem! Ale nemám nic proti tobě...",
+			"no dobře změňme téma... Jaké je u vás počasí?",
+			"no dobře změňme téma... Máš mě rád/a?",
+			"no dobře změňme téma... Budeš mi dělat sluhu?",
+			"tohle téma se mi nelíbí. Vyber něco jiného"
 		]
 
 }
