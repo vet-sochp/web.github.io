@@ -1,6 +1,7 @@
 {
 	"onMention": [
 		{
+			"msgType": "contains",
 			"msgContains":	[
 				"ako sa mas", 
 				"jak se mas", 
@@ -26,6 +27,7 @@
 				"čo sa staráš"]			
 		},
 		{
+			"msgType": "contains",
 			"msgContains":	[
 				"preco?", 
 				"co?", 
@@ -42,6 +44,7 @@
 				"uz som ti to pisala"]
 		},
 		{
+			"msgType": "contains",
 			"msgContains":	[
 				"mas ma rad",
 				"mas me rad",
@@ -69,6 +72,7 @@
 				"ano <3"]
 		},
 		{
+			"msgType": "contains",
 			"msgContains":	[
 				"aj ja",
 				"ja tebe taky",
@@ -80,6 +84,7 @@
 				"no už len toto mi chýbalo"]
 		},
 		{
+			"msgType": "contains",
 			"msgContains":	[
 				"kde byvas",
 				"kde bydlis",
@@ -90,6 +95,7 @@
 				"tady :)"]
 		},
 		{
+			"msgType": "contains",
 			"msgContains":	[
 				"4"],
 
@@ -98,6 +104,7 @@
 				"ty umíš počítat :O"]
 		},
 		{
+			"msgType": "contains",
 			"msgContains":	[
 				"kolko mas rokov",
 				"kolik ti je",
@@ -110,6 +117,7 @@
 				"tohle fakt nepotřebuješ vědet :)"]
 		},
 		{
+			"msgType": "contains",
 			"msgContains": 	[
 				"<span class=\"emoji-glow\"><span class=\"emoji emoji-2764\"></span></span>"
 				],
@@ -120,6 +128,7 @@
 				]
 		},
 		{
+			"msgType": "contains",
 			"msgContains": 	[
 				"<span class=\"emoji-glow\"><span class=\"emoji emoji-1f626\"></span></span>"
 				],
@@ -131,6 +140,7 @@
 				]
 		},
 		{
+			"msgType": "contains",
 			"msgContains": 	[
 				"<span class=\"emoji-glow\"><span class=\"emoji emoji-1f600\"></span></span>"
 				],
@@ -144,6 +154,7 @@
 				]
 		},
 		{
+			"msgType": "contains",
 			"msgContains": 	[
 				"<span class=\"emoji-glow\"><span class=\"emoji emoji-1f617\"></span></span>"
 				],
@@ -158,6 +169,7 @@
 		
 		
 		{
+			"msgType": "contains",
 			"msgContains":	[
 				"ano",
 				"jasne"],
@@ -169,6 +181,7 @@
 				"no dobre a čo sa mam teraz pokakať?"]
 		},
 		{
+			"msgType": "contains",
 			"msgContains":	[
 				"jsi zla",
 				"nebud zla"],
@@ -180,6 +193,7 @@
 				"ty jsi zlý/á!"]
 		},
 		{
+			"msgType": "contains",
 			"msgContains":	[
 				"koho"],
 		
@@ -191,6 +205,7 @@
 				"někoho"]
 		},
 		{
+			"msgType": "contains",
 			"msgContains":	[
 				"vtip",
 				"joke"],
@@ -208,6 +223,7 @@
 				"http://i.imgur.com/VaIWsd9.png"]
 		},
 		{
+			"msgType": "contains",
 			"msgContains":	[
 				"kto je?",
 				"kdo je?",
@@ -224,6 +240,7 @@
 	],
 
 	"offMention": 	[{
+			"msgType": "contains",
 			"msgContains": 	[
 				"ahoj", 
 				"čau", 
@@ -243,6 +260,7 @@
 				"\\o"]
 		},
 		{
+			"msgType": "contains",
 			"msgContains":	[
 				"papa",
 				"ja jdu jinam",
@@ -256,6 +274,7 @@
 				"ahooj brzi se vrať :*"]
 		},
 		{
+			"msgType": "contains",
 			"msgContains":	[
 				"dakujem",
 				"dekuju",
@@ -270,6 +289,7 @@
 				"zamálo :)"]
 		},
 		{
+			"msgType": "contains",
 			"msgContains":	[
 				"dobru noc", 
 				"brou",
@@ -284,6 +304,7 @@
 				"prajem krasne nocne mory <3"]
 		},
 		{
+			"msgType": "contains",
 			"msgContains":	[
 				"yuno"],
 
@@ -294,6 +315,7 @@
 				"proč se o mě bavíte?"]
 		},
 		{
+			"msgType": "mustBe",
 			"msgContains":	[
 				"tess"],
 
