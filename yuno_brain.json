@@ -1,23 +1,6 @@
 {
 	"onMention": [
 		{
-			"msgContains": 	[
-				"ahoj", 
-				"čau", 
-				"ahojky",
-				"čauky",
-				"nazdar"],
-
-			"botReply":	[
-				"ahoj:)",
-				"čauky",
-				"ahoj ako sa máš? :)",
-				"nazdárek",
-				"ahoj lasko <3",
-				"ahoj dlho si tu nebol/a",
-				"\\o"]
-		},
-		{
 			"msgContains":	[
 				"ako sa mas", 
 				"jak se mas", 
@@ -37,7 +20,7 @@
 				"dobre a ty?", 
 				"zle :(", 
 				"fajn!",
-				"tyy vyborne :D",
+				"celkom fajn:)",
 				"na prd",
 				"bolo by lepšie keby si tu nebol/a",
 				"čo sa staráš"]			
@@ -60,22 +43,18 @@
 		},
 		{
 			"msgContains":	[
-				"mas ma rada",
-				"mas me rada",
-				"mas ji rada",
-				"mas ju rada",
-				"mas ho rada",
-				"lubi ma",
-				"miluje ma",
+				"mas ma rad",
+				"mas me rad",
+				"mas ji rad",
+				"mas ju rad",
+				"mas ho rad",
 				"ma ma rad",
-				"ma ma rada",
+				"ma me rad",
 				"mas rada",
-				"milujes ji",
-				"milujes ho",
+				"miluje ma",
 				"milujes",
-				"lubis",
-				"milujes ma",
-				"milujes me"],
+				"lubi ma",
+				"lubis"],
 
 			"botReply":	[
 				"nie",
@@ -181,7 +160,6 @@
 		{
 			"msgContains":	[
 				"ano",
-				"jo",
 				"jasne"],
 
 			"botReply":	[
@@ -214,7 +192,8 @@
 		},
 		{
 			"msgContains":	[
-				"vtip"],
+				"vtip",
+				"joke"],
 
 			"botReply":	[
 				"nebudu ti říkat žádnej vtip!",
@@ -245,18 +224,23 @@
 	],
 
 	"offMention": 	[{
-			"msgContains":	[
+			"msgContains": 	[
 				"ahoj", 
-				"cau", 
-				"cc", 
+				"čau", 
+				"ahojky",
+				"čauky",
+				"nazdar",
+				"cc",
 				"zdravim"],
 
 			"botReply":	[
-				"ahoj", 
-				"cauko", 
-				"ahoj :*", 
-				"ahoj <3", 
-				"ahoooj :)"]
+				"ahoj:)",
+				"čauky",
+				"ahoj ako sa máš? :)",
+				"nazdárek",
+				"ahoj lasko <3",
+				"ahoj dlho si tu nebol/a",
+				"\\o"]
 		},
 		{
 			"msgContains":	[
