@@ -182,13 +182,17 @@
 			"msgType": "contains",
 			"msgContains":	[
 				"ano",
-				"jasne"],
+				"jasne",
+				"jo",
+				"yup"],
 
 			"botReply":	[
 				"aha, a čo ja stým?",
 				"tak teda jo no",
 				"myslíš, že jo?",
-				"no dobre a čo sa mam teraz pokakať?"]
+				"no dobre a čo sa mam teraz pokakať?",
+				"wow :O jen škoda, že mě to vůbec nezajímá",
+				"a cítíš se drsně?"]
 		},
 		{
 			"msgType": "contains",
@@ -290,6 +294,8 @@
 				"dekuju",
 				"dekuji",
 				"diky",
+				"dikec",
+				"dik",
 				"thx"
 			],
 			"botReply": 	[
