@@ -166,7 +166,8 @@
 				"já te políbím že zapomeneš jak se jmenuješ! :*"
 				]
 		},
-		"msgType": "contains",
+		{
+			"msgType": "contains",
 			"msgContains": 	[
 				"<span class=\"emoji-glow\"><span class=\"emoji emoji-1f61b\"></span></span>"
 				],
@@ -337,7 +338,7 @@
 				"Tessi má nejlepší roomku na celém plugu!",
 				"proč se bavíte o Tessinke?",
 				"Tessi je moje máma :D"]
-		}
+		},
 		{
 			"msgType": "mustBe",
 			"msgContains":	[
@@ -353,8 +354,7 @@
 				"a proč ne?",
 				"Ne neberu jako odpověď!",
 				"Ne? NE?!"]
-		}
-		],
+		}],
 
 	"setAiOff": [
 			"zdechla jsem :'(",
