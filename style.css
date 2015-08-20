@@ -340,3 +340,7 @@ div[data-cid^="9472023-"] .badge-box i {
     width:35px !important;
     height:35px !important;
 }
+#dialog-preview .dialog-frame .button.submit {
+    color: #eee;
+    font-weight: bold;
+}
