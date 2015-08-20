@@ -46,6 +46,17 @@
 		{
 			"msgType": "contains",
 			"msgContains":	[
+				"tvoj otec?", 
+				"tvuj tata?",
+				"tvoje mama?",
+				"tvoja mama?"],
+
+			"botReply":	[
+				"můj otec je @Itory a moje máma je @Tessi Tess"]
+		},
+		{
+			"msgType": "contains",
+			"msgContains":	[
 				"mas ma rad",
 				"mas me rad",
 				"mas ji rad",
