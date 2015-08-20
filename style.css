@@ -307,12 +307,12 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 }
 .dialog-frame .button.submit,
 #dj-button .left {
-    background: linear-gradient(to bottom,#DE68EF 0,#DE68EF 100%);
+    background: linear-gradient(to bottom,#DE68EF 0,#DE68EF 100%) !important;
 }
 .dialog.destructive .button.submit,
 #dj-button.is-leave .left, 
 #dj-button.is-quit .left {
-    background: linear-gradient(to bottom,#52185A 0,#52185A 100%);
+    background: linear-gradient(to bottom,#52185A 0,#52185A 100%) !important;
 }
 #dj-button {
     background: #363B44;
