@@ -305,6 +305,18 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
     margin-left: -3px;
     margin-right: 5px;
 }
+.dialog-frame .button.submit,
+#dj-button .left {
+    background: linear-gradient(to bottom,#DE68EF 0,#DE68EF 100%);
+}
+.dialog.destructive .button.submit,
+#dj-button.is-leave .left, 
+#dj-button.is-quit .left {
+    background: linear-gradient(to bottom,#52185A 0,#52185A 100%);
+}
+#dj-button {
+    background: #363B44;
+}
 
 /* NASTAVENIA PRE ID */
 
