@@ -13,6 +13,7 @@
 				"ako sa mame", 
 				"ako sa dari", 
 				"jak zijes", 
+				"a ty?",
 				"ako zijes", 
 				"ako sa ty mas",
 				"ako sa dari"],
@@ -189,8 +190,6 @@
 				":P"
 				]
 		},
-		
-		
 		{
 			"msgType": "contains",
 			"msgContains":	[
@@ -230,6 +229,28 @@
 				"koho co?",
 				"seba?",
 				"někoho"]
+		},
+		{
+			"msgType": "contains",
+			"msgContains":	[
+				"kdo"],
+		
+			"botReply":	[
+				"ty",
+				"nevim",
+				"co kdo?",
+				"já?"]
+		},
+		{
+			"msgType": "contains",
+			"msgContains":	[
+				"nemám"],
+		
+			"botReply":	[
+				"a proč nemáš?",
+				"to je škoda",
+				"a budeš mít?",
+				"a chceš mít?"]
 		},
 		{
 			"msgType": "contains",
@@ -339,7 +360,8 @@
 
 			"botReply":	[
 				"co zas já?",
-				"co mi chceš?"]
+				"co mi chceš?",
+				"jo jo jsem tady"]
 		},
 		{
 			"msgType": "mustBe",
