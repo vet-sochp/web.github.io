@@ -317,6 +317,16 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #dj-button {
     background: #363B44;
 }
+.rsrow:hover {
+    background: linear-gradient(to right,rgba(54, 106, 174, 0.25) 0,rgba(54, 106, 174, 0) 100%) !important;
+    background: none !important;
+    background-color: rgba(255, 115, 250, 0.13) !important;
+}
+#dialog-preview .dialog-frame .button.submit {
+    color: #eee;
+    font-weight: bold;
+}
+
 
 /* NASTAVENIA PRE ID */
 
@@ -340,7 +350,4 @@ div[data-cid^="9472023-"] .badge-box i {
     width:35px !important;
     height:35px !important;
 }
-#dialog-preview .dialog-frame .button.submit {
-    color: #eee;
-    font-weight: bold;
-}
+
