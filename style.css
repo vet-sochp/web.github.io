@@ -326,6 +326,11 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
     color: #eee;
     font-weight: bold;
 }
+#user-rollover.is-staff .thumb, 
+#waitlist .is-staff .thumb {
+    border-color: #AC76FF !important;
+    border: 3px solid #FF009C !important;
+}
 
 
 /* NASTAVENIA PRE ID */
