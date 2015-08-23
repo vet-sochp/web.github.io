@@ -329,7 +329,15 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #user-rollover.is-staff .thumb, 
 #waitlist .is-staff .thumb {
     border-color: #AC76FF !important;
-    border: 3px solid #FF009C !important;
+    border: 3px solid #EB7ABF !important;
+}
+#user-rollover.is-ambassador .info .role span {
+    color: #de00e6 !important;
+}
+#user-rollover.is-ambassador .thumb, 
+#waitlist .is-ambassador .thumb {
+    border-color: #89be6c !important;
+    border: 3px solid #de00e6 !important;
 }
 
 
