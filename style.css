@@ -337,6 +337,10 @@ box-shadow: 0 0 0 0.1em #ffa3f7 inset !important;
 #waitlist .is-ambassador .thumb {
     border: 3px solid #de00e6 !important;
 }
+.dialog-frame .button.submit.purchase {
+    color: #eee;
+    background: linear-gradient(to bottom,#7E009A 0,#7E009A 100%) !important;
+}
 
 
 /* NASTAVENIA PRE ID */
