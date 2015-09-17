@@ -4,12 +4,6 @@
 #user-rollover .info .role span { 
     color: #EB7ABF !important 
 }
-#donate-box {
-    display: none;
-}
-.show-donate {
-    display: none;
-}
 .icon { 
     background-image: url('http://i.imgur.com/57rIEAI.png'); 
 }
