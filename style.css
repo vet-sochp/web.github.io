@@ -4,9 +4,6 @@
 #user-rollover .info .role span { 
     color: #EB7ABF !important 
 }
-#chat .cm:nth-child(2n+1) {
-    display: none;
-}
 #donate-box {
     display: none;
 }
