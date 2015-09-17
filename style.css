@@ -10,9 +10,8 @@
 #donate-box {
     display: none;
 }
-#chat-messages.show-donate {
-    top: 45px;
-    height: 85% !important;
+.show-donate {
+    display: none;
 }
 .icon { 
     background-image: url('http://i.imgur.com/57rIEAI.png'); 
