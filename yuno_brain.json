@@ -3,7 +3,7 @@
 		{
 			"msgType": "contains",
 			"msgContains":	[
-				"ako sa mas", 
+				"ako sa mas",
 				"jak se mas", 
 				"jak je", 
 				"jak to de", 
@@ -445,7 +445,8 @@
 			"no dobře změňme téma... Jaké je u vás počasí?",
 			"no dobře změňme téma... Máš mě rád/a?",
 			"no dobře změňme téma... Budeš mi dělat sluhu?",
-			"tohle téma se mi nelíbí. Vyber něco jiného"
+			"tohle téma se mi nelíbí. Vyber něco jiného",
+			"vezmeš mě do kina? <3"
 		]
 
 }
