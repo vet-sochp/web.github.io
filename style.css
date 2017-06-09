@@ -4,6 +4,9 @@
 #user-rollover .info .role span { 
     color: #EB7ABF !important 
 }
+#room .room-background {
+    background: url("http://i.imgur.com/MWUoyg4.jpg") no-repeat !important;
+}
 .icon { 
     background-image: url('http://i.imgur.com/57rIEAI.png'); 
 }
