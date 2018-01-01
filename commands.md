@@ -11,7 +11,7 @@
 | Název příkazu | Použití příkazu | Co dělá |
 |:-------|:--------|:--------|
 | Alkohol | !alkohol @user | Pozveš někoho panáka či pivo. |
-| Ask | !ask otázka | Bot odpoví na jakoukoliv otázku. Vhodné jsou otázky typu ANO/NE. Ostatní nedoporučuji aby odpověď dávala aspoň trochu smysl |
+| Ask | !ask otázka | Bot odpoví na jakoukoliv otázku. Vhodné jsou otázky typu ANO/NE. Odpověď by nemusela dávat žádný smysl. |
 | Cookie | !cookie @user | Pošleš někomu sušenku. |
 | Command | !cmd | Bot pošla odkaz na stránku s příkazy. |
 | ETA | !eta | Bot napíše za jak dlouho budeš na řadě. |
@@ -23,7 +23,5 @@
 | Spam | !spam @user | Bot pošle uživateli náhodný spam. |
 
 ### Vlastnosti, které se neovládají příkazem
-| Vlastnost | Co dělá |
-|:----------|:--------|
-| Online | Při aktivaci bot napíše že je online. |
-| Historyskip | Automaticky přeskočí skladby, které jsou již v historii. |
+- Online - Při aktivaci bot napíše že je online.
+- Historyskip - Automaticky přeskočí skladby, které jsou již v historii.
