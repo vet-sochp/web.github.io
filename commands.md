@@ -20,8 +20,8 @@
 | Love | !love @user | Zjistíš na kolik % někoho miluješ. |
 | Ping | !ping | Bot napíše Pong. |
 | Sex | !sex @user | Dáš někomu na vědomí, že chceš s ním sex. |
-| Spam | !spam @user | Bot pošle uživateli náhodný spam. |  
-
+| Spam | !spam @user | Bot pošle uživateli náhodný spam. |
+<br/>
 ### Vlastnosti, které se neovládají příkazem
 - Online - Při aktivaci bot napíše že je online.
 - Historyskip - Automaticky přeskočí skladby, které jsou již v historii.
