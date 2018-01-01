@@ -194,7 +194,7 @@ var TessiBot = {
 
                 	var locked = data.data[0].isLocked;
 
-	    			//Ověření
+	    		//Ověření
 	                if(message == "") {
 	                    
 	                    receiver = sender;
