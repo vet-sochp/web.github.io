@@ -412,12 +412,12 @@ var TessiBot = {
                 	
                 if(position == -1) {
 
-					API.sendChat("/me [@" + user + "] Nejsi ve frontě");
+			API.sendChat("/me [@" + user + "] Nejsi ve frontě");
                 	return false;
-				}
+		}
 
-				API.sendChat("/me [@" + user + "] Budeš na řadě za: " + (hour == 0 ? "" : hour + ".") + min + ":" + sec);
-				return true;
+			API.sendChat("/me [@" + user + "] Budeš na řadě za: " + (hour == 0 ? "" : hour + ".") + min + ":" + sec);
+			return true;
             }
         },
 
@@ -476,7 +476,7 @@ var TessiBot = {
         	command: "love",
         	call: function(sender_uid, message) {
 
-        		//Získat uživatele
+        	//Získat uživatele
                 var sender = API.getUser(sender_uid);
                 
                 //Vybrání příjemce z příkazu
@@ -503,7 +503,7 @@ var TessiBot = {
 
                 if(sender.id == 5477951 && receiver.id == 4183729) {
 
-                	API.sendChat("/me [@" + sender.username + "] miluje uživatele @" + receiver.username + " na 200 % :purple_heart:");
+			API.sendChat("/me [@" + sender.username + "] miluje uživatele @" + receiver.username + " na 200 % :purple_heart:");
                 	return;
                 }
 
@@ -666,7 +666,7 @@ var TessiBot = {
         	}
         },
 
-		spam: {
+	spam: {
             name: "Spam",
             command: "spam",
             call: function(sender_uid, message) {
