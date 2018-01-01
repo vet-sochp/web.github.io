@@ -5,13 +5,13 @@
 |:-------|:--------|:--------|
 | Add | !add @user | Přidá uživatele do fronty. Pokud není zadán uživatel, bot přidá toho, kdo příkaz napsal. |
 | Remove | !remove @user | Odstraní uživatele z fronty. Pokud není zadán uživatel, bot odstraní toho, kdo příkaz napsal. |
-| Skip | !skip | toggle bouncer+. |
+| Skip | !skip | Přeskočí aktuální skladbu. |
 
 ### Uživatel
 | Název příkazu | Použití příkazu | Co dělá |
 |:-------|:--------|:--------|
 | Alkohol | !alkohol @user | Pozveš někoho panáka či pivo. |
-| Ask | !ask otázka | Bot odpoví na otázku. Vhodné jsou otázky typu ANO/NE. |
+| Ask | !ask otázka | Bot odpoví na jakoukoliv otázku. Vhodné jsou otázky typu ANO/NE. Ostatní nedoporučuji aby odpověď dávala aspoň trochu smysl |
 | Cookie | !cookie @user | Pošleš někomu sušenku. |
 | Command | !cmd | Bot pošla odkaz na stránku s příkazy. |
 | ETA | !eta | Bot napíše za jak dlouho budeš na řadě. |
