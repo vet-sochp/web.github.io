@@ -22,7 +22,7 @@
 | Sex | !sex @user | Dáš někomu na vědomí, že chceš s ním sex. |
 | Spam | !spam @user | Bot pošle uživateli náhodný spam. |
 
-<br/>  
+<br>  
 
 ### Vlastnosti, které se neovládají příkazem
 - Online - Při aktivaci bot napíše že je online.
