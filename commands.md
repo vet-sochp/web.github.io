@@ -8,7 +8,7 @@
 | Skip | !skip | Přeskočí aktuální skladbu. |
 
 ### Uživatel
-| Název příkazu | Použití příkazu | Co dělá |
+| Název příkazu | Použití příkazu | Co dělá |
 |:-------|:--------|:--------|
 | Alkohol | !alkohol @user | Pozveš někoho panáka či pivo. |
 | Ask | !ask otázka | Bot odpoví na jakoukoliv otázku. Vhodné jsou otázky typu ANO/NE. Ostatní nedoporučuji aby odpověď dávala aspoň trochu smysl |
