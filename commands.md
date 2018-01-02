@@ -20,7 +20,7 @@
 | Alkohol | !alkohol @user | Pozveš někoho panáka či pivo. |
 | Ask | !ask otázka | Bot odpoví na jakoukoliv otázku. Vhodné jsou otázky typu ANO/NE. Odpověď by nemusela dávat žádný smysl. |
 | Cookie | !cookie @user | Pošleš někomu sušenku. |
-| Command | !cmd | Bot pošla odkaz na stránku s příkazy. |
+| Command | !cmd | Bot pošle odkaz na stránku s příkazy. |
 | ETA | !eta | Bot napíše za jak dlouho budeš na řadě. |
 | Facka | !facka @user | Dáš někomu facku. |
 | FB | !fb | Bot pošle odkaz na Fb magora, co tohle zplodil. |
