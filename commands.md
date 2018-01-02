@@ -1,10 +1,10 @@
 # Příkazy
 
 - **user** - uživatel
-- **X** - proměnná
-- **H** - nastavení banu na hodinu
-- **D** - nastavení banu na den
-- **P** - nastavení banu na permanentní
+- **X** - proměnná
+- **H** - nastavení banu na hodinu
+- **D** - nastavení banu na den
+- **P** - nastavení banu na permanentní
 
 ### Vyhazovač
 | Název příkazu | Použití příkazu | Co dělá |
