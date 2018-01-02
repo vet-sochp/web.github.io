@@ -1,11 +1,18 @@
 # Příkazy
+
 - **user** - uživatel
+- **X** - proměnná
+- **H** - nastavení banu na hodinu
+- **D** - nastavení banu na den
+- **P** - nastavení banu na permanentní
+
 ### Vyhazovač
 | Název příkazu | Použití příkazu | Co dělá |
 |:-------|:--------|:--------|
 | Add | !add @user | Přidá uživatele do fronty. Pokud není zadán uživatel, bot přidá toho, kdo příkaz napsal. |
 | Remove | !remove @user | Odstraní uživatele z fronty. Pokud není zadán uživatel, bot odstraní toho, kdo příkaz napsal. |
 | Skip | !skip | Přeskočí aktuální skladbu. |
+| Ban | !ban X @user | Zabanuje uživatele na definovaný čas. Pokud není čas definován, defaultně se nastaví na hodinu.
 
 ### Uživatel
 | Název příkazu | Použití příkazu | Co dělá |
