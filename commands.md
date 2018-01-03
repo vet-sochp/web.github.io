@@ -1,13 +1,13 @@
 # Příkazy
 
-- **user**  - uživatel
-- **X**     - proměnná
-- **H**     - nastavení banu na hodinu
-- **D**     - nastavení banu na den
-- **P**     - nastavení banu na permanentní
-- **S**     - nastavení mute na 15 minut
-- **M**     - nastavení mute na 30 minut
-- **L**     - nastavení mute na 45 minut 
+- **user** - uživatel
+- **X** - proměnná
+- **H** - nastavení banu na hodinu
+- **D** - nastavení banu na den
+- **P** - nastavení banu na permanentní
+- **S** - nastavení mute na 15 minut
+- **M** - nastavení mute na 30 minut
+- **L** - nastavení mute na 45 minut 
 
 ### Manager
 | Název příkazu | Použití příkazu | Co dělá |
@@ -19,9 +19,10 @@
 | Název příkazu | Použití příkazu | Co dělá |
 |:-------|:--------|:--------|
 | Add | !add @user | Přidá uživatele do fronty. Pokud není zadán uživatel, bot přidá toho, kdo příkaz napsal. |
+| Ban | !ban X @user | Zabanuje uživatele na definovaný čas. Pokud není čas definován, defaultně se nastaví na hodinu. |
+| Mute | !mute @user | Umlčí daného uživatele na definovaný čas. Uživatel nebude moct po tuto dobu psát do chatu. |
 | Remove | !remove @user | Odstraní uživatele z fronty. Pokud není zadán uživatel, bot odstraní toho, kdo příkaz napsal. |
 | Skip | !skip | Přeskočí aktuální skladbu. |
-| Ban | !ban X @user | Zabanuje uživatele na definovaný čas. Pokud není čas definován, defaultně se nastaví na hodinu. |
 
 ### Uživatel
 | Název příkazu | Použití příkazu | Co dělá |
