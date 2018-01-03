@@ -6,6 +6,11 @@
 - **D** - nastavení banu na den
 - **P** - nastavení banu na permanentní
 
+### Manager
+| Název příkazu | Použití příkazu | Co dělá |
+|:-------|:--------|:--------|
+| Kill | !kill | Vypne bota |
+
 ### Vyhazovač
 | Název příkazu | Použití příkazu | Co dělá |
 |:-------|:--------|:--------|
