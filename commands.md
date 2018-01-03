@@ -10,9 +10,6 @@
 | Název příkazu | Použití příkazu | Co dělá |
 |:-------|:--------|:--------|
 | Kill | !kill | Vypne bota |
-| Lockdown | !lockdown | Zamkne chat pro uživatele. Psát do chatu může jenom staff. |
-| Unban | !unban @user | Zruší ban danému uživateli. |
-| Unmute all | !unmuteall | Zruší umlčení všem uživatelům, kteří jsou umlčeni. |
 
 ### Vyhazovač
 | Název příkazu | Použití příkazu | Co dělá |
@@ -21,7 +18,6 @@
 | Remove | !remove @user | Odstraní uživatele z fronty. Pokud není zadán uživatel, bot odstraní toho, kdo příkaz napsal. |
 | Skip | !skip | Přeskočí aktuální skladbu. |
 | Ban | !ban X @user | Zabanuje uživatele na definovaný čas. Pokud není čas definován, defaultně se nastaví na hodinu. |
-| Unmute | !unmute @user | Zruší umlčení danému uživateli. |
 
 ### Uživatel
 | Název příkazu | Použití příkazu | Co dělá |
