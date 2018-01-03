@@ -1,13 +1,13 @@
 # Příkazy
 
-- **user** - uživatel
-- **X** - proměnná
-- **H** - nastavení banu na hodinu
-- **D** - nastavení banu na den
-- **P** - nastavení banu na permanentní
-- **S** - nastavení mute na 15 minut
-- **M** - nastavení mute na 30 minut
-- **L** - nastavení mute na 45 minut 
+- **user**  - uživatel
+- **X**     - proměnná
+- **H**     - nastavení banu na hodinu
+- **D**     - nastavení banu na den
+- **P**     - nastavení banu na permanentní
+- **S**     - nastavení mute na 15 minut
+- **M**     - nastavení mute na 30 minut
+- **L**     - nastavení mute na 45 minut 
 
 ### Manager
 | Název příkazu | Použití příkazu | Co dělá |
