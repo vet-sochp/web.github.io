@@ -10,6 +10,7 @@
 | Název příkazu | Použití příkazu | Co dělá |
 |:-------|:--------|:--------|
 | Kill | !kill | Vypne bota |
+| Unban | !unban @user | Zruší ban danému uživateli. |
 
 ### Vyhazovač
 | Název příkazu | Použití příkazu | Co dělá |
