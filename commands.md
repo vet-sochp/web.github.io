@@ -1,6 +1,6 @@
 # Příkazy
 
-- **user** - uživatel
+- **user** - uživatel (může i nemusí se psát do příkazu se @)
 - **X** - proměnná
 - **H, D, P** - nastavení banu na hodinu, den, permanentně
 - **S, M, L** - nastavení mute na 15 minut, 30 minut, 45 minut
