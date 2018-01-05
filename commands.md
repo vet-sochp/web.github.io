@@ -32,7 +32,7 @@
 | ETA | !eta | Bot napíše za jak dlouho budeš na řadě. |
 | Facka | !facka user | Dáš někomu facku. |
 | FB | !fb | Bot pošle odkaz na Fb magora, co tohle zplodil. |
-| Já| !ja | Bot napíš délku tvého čůra, velikost IQ a na koli % jsi sexy.
+| Já| !ja | Bot napíše délku tvého čůra, velikost IQ a na koli % jsi sexy.
 | Love | !love user | Zjistíš na kolik % někoho miluješ. |
 | Ping | !ping | Bot napíše Pong. |
 | Sex | !sex user | Dáš někomu na vědomí, že chceš s ním sex. |
