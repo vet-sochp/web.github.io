@@ -1,5 +1,7 @@
 ![TessiBot](https://i.imgur.com/uK3ark3.png)
 
+<br>
+
 ### Co je to vlastně zač
 Jedná se o plug.dj chat bota, který pomocí příkazu napsaných do chatu plní různé funkce. Od nejrůznějších užitečných příkazů až po různé blbinky pro pobavení. 
 
