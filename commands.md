@@ -20,7 +20,6 @@
 | Remove | !remove user | Odstraní uživatele z fronty. Pokud není zadán uživatel, bot odstraní toho, kdo příkaz napsal. |
 | Skip | !skip | Přeskočí aktuální skladbu. |
 | Unmute | !unmute user | Zruší umlčení danému uživateli. |
-| Whois | !whois user | Bot vypíše o daném uživateli některé informace a pošle odkaz na profil. |
 
 ### Uživatel
 | Název příkazu | Použití příkazu | Co dělá |
