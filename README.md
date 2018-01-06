@@ -6,5 +6,8 @@ Jedná se o plug.dj chat bota, který pomocí příkazu napsaných do chatu pln�
 ### K čemu je dobrý
 Asi jedna z nejužitečnějších věcí je, že má různé funkce jako je historyskip, který zajišťuje aby skladby, které jsou již v historii, nehrály znovu. Také může dát vyhazovači pravomoce manažera nebo vyšší. Záleží na jakém účtě je bot spuštěn.
 
+### Příkazy
+Příkazy, které bot umí, můžeš nalést v [seznamu příkazů](commands.md).
+
 # Zatím je pouze ve fázi vývoje
 
