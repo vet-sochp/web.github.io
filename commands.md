@@ -19,6 +19,7 @@
 | Mute | !mute @user | Umlčí daného uživatele na definovaný čas. Uživatel nebude moct po tuto dobu psát do chatu. Pokud není čas definován, defaultně se nastaví 15 minut. |
 | Remove | !remove @user | Odstraní uživatele z fronty. Pokud není zadán uživatel, bot odstraní toho, kdo příkaz napsal. |
 | Skip | !skip | Přeskočí aktuální skladbu. |
+| Move | !move X @user | Posune uživatele ve frontě. Pokud ve frontě není, tak bot uživatele přidá. |
 | Unmute | !unmute @user | Zruší umlčení danému uživateli. |
 | Whois | !whois @user | Bot napíše některé informace o daném uživateli. Pkud není uživatel zadán, napíše info o odesilateli. |
 
