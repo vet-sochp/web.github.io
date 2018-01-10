@@ -6,7 +6,7 @@
 - **S, M, L** - nastavení mute na 15 minut, 30 minut, 45 minut
 
 ### Manager
-| Název příkazu | Použití příkazu | Co dělá |
+| Název příkazu | Použití příkazu | Co dělá |
 |:-------|:--------|:--------|
 | Kill | !kill | Vypne bota |
 | Swap | !swap <br> @user @user | Prohodí místo ve frontě dvěma uživatelům. Pokud není jeden z uživatelů ve frontě, bot uživatele přidá a následně proběhne výměna. |
