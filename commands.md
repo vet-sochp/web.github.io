@@ -9,7 +9,7 @@
 | Název příkazu | Použití příkazu | Co dělá |
 |:-------|:--------|:--------|
 | Kill | !kill | Vypne bota |
-| Swap | !swap <br> @user @user | Prohodí místo ve frontě dvěma uživatelům. Pokud není jeden z uživatelů ve frontě, bot uživatele přidá a následně proběhne výměna. |
+| Swap | !swap <br> @user @user | Prohodí místo ve frontě dvěma uživatelům. Pokud není jeden z uživatelů ve frontě, bot ho přidá a následně proběhne výměna. |
 | Unban | !unban @user | Zruší ban danému uživateli. |
 
 ### Vyhazovač
